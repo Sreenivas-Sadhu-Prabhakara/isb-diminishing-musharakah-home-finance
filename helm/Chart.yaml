@@ -1,0 +1,14 @@
+apiVersion: v2
+name: isb-diminishing-musharakah-home-finance
+description: "BIAN Service Domain: Diminishing Musharakah Home Finance (Fulfill pattern, Islamic Financing)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - islamic-banking
+  - fulfill
+annotations:
+  isb/business-area: "Islamic Financing"
+  isb/business-domain: "Lease And Partnership Financing"
+  isb/asset-type: "Diminishing Musharakah Facility"
+  isb/control-record: "Diminishing Musharakah Facility Fulfillment Arrangement"
